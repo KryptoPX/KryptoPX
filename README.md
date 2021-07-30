@@ -16,6 +16,8 @@ Software IT Developer
     - JavaScript
     - CSS
 
+![](https://activity-graph.herokuapp.com/graph?username=KurtPX&theme=react-dark)
+
 <!--
 **KurtYalnix/KurtYalnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
