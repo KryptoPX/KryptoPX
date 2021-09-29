@@ -64,7 +64,7 @@ Software IT Developer
 </a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=KurtPX&theme=react-dark&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=KryptoPX&theme=react-dark&hide_border=true)
 
 <!--
 **KurtYalnix/KurtYalnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
