@@ -6,6 +6,7 @@ Software IT Developer
             -Typescrypt (Junio-2019)
             -Javascript (2018)
         - Frameworks
+            - ReactJS (Sep-2020)
             - Svelte (Nov-2020)
         - SQL (Sep-2020)
         - Java (Sep-2020)
